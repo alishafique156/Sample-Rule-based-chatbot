@@ -14,7 +14,8 @@ Similarity Matching: Uses TF-IDF and cosine similarity to match user queries wit
 pip install -r requirements.txt
 
 **USAGE**
-**Run the Chatbot**
+
+** Run the Chatbot **
 python code.py
 
 Interact with the chatbot by typing in greetings, questions, or any queries to see how it responds based on the rules defined.
