@@ -1,5 +1,5 @@
-# Sample-Rule-based-chatbot
-**Sample Rule-Based Chatbot**
+# Simple-Rule-based-chatbot
+**Simple Rule-Based Chatbot**
 Check Proposal, Timeline, then check code and Report of this project.
 **Overview**
 A modular chatbot designed to handle user queries, validate inputs, and deliver consistent, rule-based responses. The project focuses on optimized performance, clear presentation, and maintainable code architecture.This chatbot is designed to handle user queries and provide responses based on predefined rules and patterns. It includes basic natural language processing capabilities to manage greetings, personal questions, and general conversation using a rule-based approach.
